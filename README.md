@@ -6,15 +6,15 @@ A simple CRUD API built with Node.js, TypeScript, Express, and Prisma. This API 
 
 #### Movies
 
-GET /movies - List all movies
-POST /movies - Create a new movie
+- GET /movies - List all movies
+- POST /movies - Create a new movie
 
 #### Categories
 
-GET /categories - List all categories
-POST /categories - Create a new category
-PUT /categories/:id - Update a category
-DELETE /categories/:id - Delete a category
+- GET /categories - List all categories
+- POST /categories - Create a new category
+- PUT /categories/:id - Update a category
+- DELETE /categories/:id - Delete a category
 
 ## :page_facing_up: Technologies Used
 
